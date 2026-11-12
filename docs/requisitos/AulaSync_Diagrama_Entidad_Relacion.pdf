@@ -1,0 +1,305 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1207 >>
+stream
+0.965 0.976 0.984 rg 0 0 595 842 re f
+0.137 0.420 0.557 rg 56 710 92 4 re f
+BT /F2 32 Tf 0.090 0.196 0.302 rg 1 0 0 1 56 660 Tm (AulaSync) Tj ET
+BT /F2 23 Tf 0.137 0.420 0.557 rg 1 0 0 1 56 620 Tm (Diagrama Entidad\226Relaci\363n) Tj ET
+BT /F1 12.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 56 585 Tm (Modelo l\363gico propuesto para la primera versi\363n) Tj ET
+1 1 1 rg 56 350 483 140 re f
+0.784 0.835 0.875 RG 0.7 w 56 350 483 140 re S
+BT /F2 12.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 76 455 Tm (Prop\363sito del documento) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 425 Tm (Representar las entidades, atributos, claves y cardinalidades) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 408 Tm (necesarias para persistir usuarios, materias, actividades,) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 391 Tm (materiales y res\372menes, distinguiendo requisitos del documento y) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 374 Tm (decisiones de dise\361o.) Tj ET
+BT /F1 9.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 56 115 Tm (Fuente: AulaSync_Descripcion_del_Sistema.pdf) Tj ET
+BT /F1 9.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 56 96 Tm (Alcance: primera versi\363n \267 Actor principal: Estudiante) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1370 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama Entidad\226Relaci\363n) Tj ET
+0.137 0.420 0.557 rg 48 767 4 22 re f
+BT /F2 15 Tf 0.090 0.196 0.302 rg 1 0 0 1 60 770 Tm (Lectura del diagrama) Tj ET
+BT /F1 9.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 48 736 Tm (PK identifica la clave primaria y FK una clave for\341nea. Las cardinalidades expresan cu\341ntos) Tj ET
+BT /F1 9.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 48 722 Tm (registros pueden relacionarse. El diagrama mantiene la propiedad directa de los materiales) Tj ET
+BT /F1 9.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 48 708 Tm (por usuario y permite asociarlos opcionalmente a una materia.) Tj ET
+0.863 0.933 0.961 rg 48 627 499 68 re f
+0.784 0.835 0.875 RG 0.6 w 48 627 499 68 re S
+BT /F2 10.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 62 669 Tm (Alcance del modelo) Tj ET
+BT /F1 9.3 Tf 0.149 0.204 0.259 rg 1 0 0 1 62 648 Tm (No se agregan entidades de administrador, calendario, notificaci\363n, recuperaci\363n) Tj ET
+BT /F1 9.3 Tf 0.149 0.204 0.259 rg 1 0 0 1 62 635 Tm (de contrase\361a ni funciones externas al documento original.) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 2 de 5) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4720 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama Entidad\226Relaci\363n) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 48 770 Tm (DER \227 Vista general) Tj ET
+1 1 1 rg 38 555 150 145 re f
+0.784 0.835 0.875 RG 0.9 w 38 555 150 145 re S
+0.090 0.196 0.302 rg 38 672 150 28 re f
+0.090 0.196 0.302 RG 0.6 w 38 672 150 28 re S
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 94.135 681 Tm (USUARIO) Tj ET
+BT /F2 7.9 Tf 0.137 0.420 0.557 rg 1 0 0 1 46 653 Tm (PK id_usuario) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 46 638 Tm (nombre) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 46 623 Tm (email) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 46 608 Tm (contrasena) Tj ET
+1 1 1 rg 223 555 150 145 re f
+0.784 0.835 0.875 RG 0.9 w 223 555 150 145 re S
+0.090 0.196 0.302 rg 223 672 150 28 re f
+0.090 0.196 0.302 RG 0.6 w 223 672 150 28 re S
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 279.135 681 Tm (MATERIA) Tj ET
+BT /F2 7.9 Tf 0.137 0.420 0.557 rg 1 0 0 1 231 653 Tm (PK id_materia) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 231 638 Tm (nombre) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 231 623 Tm (descripcion) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 231 608 Tm (FK id_usuario) Tj ET
+1 1 1 rg 408 555 150 145 re f
+0.784 0.835 0.875 RG 0.9 w 408 555 150 145 re S
+0.090 0.196 0.302 rg 408 672 150 28 re f
+0.090 0.196 0.302 RG 0.6 w 408 672 150 28 re S
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 458.745 681 Tm (ACTIVIDAD) Tj ET
+BT /F2 7.9 Tf 0.137 0.420 0.557 rg 1 0 0 1 416 653 Tm (PK id_actividad) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 416 638 Tm (titulo) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 416 623 Tm (tipo) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 416 608 Tm (fecha) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 416 593 Tm (estado) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 416 578 Tm (FK id_materia) Tj ET
+1 1 1 rg 130 255 175 175 re f
+0.784 0.835 0.875 RG 0.9 w 130 255 175 175 re S
+0.090 0.196 0.302 rg 130 402 175 28 re f
+0.090 0.196 0.302 RG 0.6 w 130 402 175 28 re S
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 195.94 411 Tm (MATERIAL) Tj ET
+BT /F2 7.9 Tf 0.137 0.420 0.557 rg 1 0 0 1 138 383 Tm (PK id_material) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 138 368 Tm (nombre) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 138 353 Tm (tipo) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 138 338 Tm (ruta_o_contenido) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 138 323 Tm (FK id_usuario) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 138 308 Tm (FK id_materia \(opcional\)) Tj ET
+1 1 1 rg 390 270 168 145 re f
+0.784 0.835 0.875 RG 0.9 w 390 270 168 145 re S
+0.090 0.196 0.302 rg 390 387 168 28 re f
+0.090 0.196 0.302 RG 0.6 w 390 387 168 28 re S
+BT /F2 11 Tf 1 1 1 rg 1 0 0 1 455.135 396 Tm (RESUMEN) Tj ET
+BT /F2 7.9 Tf 0.137 0.420 0.557 rg 1 0 0 1 398 368 Tm (PK id_resumen) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 398 353 Tm (contenido) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 398 338 Tm (fecha_generacion) Tj ET
+BT /F1 7.9 Tf 0.149 0.204 0.259 rg 1 0 0 1 398 323 Tm (FK id_material \(UNIQUE\)) Tj ET
+0.137 0.420 0.557 RG 1.4 w 188 625 m 223 625 l S
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 191 636 Tm (1) Tj ET
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 211 636 Tm (N) Tj ET
+0.137 0.420 0.557 RG 1.4 w 373 625 m 408 625 l S
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 377 636 Tm (1) Tj ET
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 396 636 Tm (N) Tj ET
+0.137 0.420 0.557 RG 1.3 w 112 555 m 112 465 l S
+0.137 0.420 0.557 RG 1.3 w 112 465 m 180 430 l S
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 98 500 Tm (1) Tj ET
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 151 446 Tm (N) Tj ET
+0.173 0.478 0.420 RG 1.3 w 298 555 m 298 430 l S
+BT /F2 8 Tf 0.173 0.478 0.420 rg 1 0 0 1 304 515 Tm (0..1) Tj ET
+BT /F2 8 Tf 0.173 0.478 0.420 rg 1 0 0 1 304 447 Tm (0..N) Tj ET
+0.137 0.420 0.557 RG 1.4 w 305 342 m 390 342 l S
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 314 352 Tm (1) Tj ET
+BT /F2 8 Tf 0.137 0.420 0.557 rg 1 0 0 1 365 352 Tm (0..1) Tj ET
+0.965 0.976 0.984 rg 48 120 499 80 re f
+0.784 0.835 0.875 RG 0.6 w 48 120 499 80 re S
+BT /F2 9.7 Tf 0.090 0.196 0.302 rg 1 0 0 1 62 174 Tm (Relaciones) Tj ET
+BT /F1 8.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 62 151 Tm (Usuario 1:N Materia \267 Materia 1:N Actividad \267 Usuario 1:N Material) Tj ET
+BT /F1 8.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 62 132 Tm (Materia 0..N Material / Material 0..1 Materia \267 Material 1:0..1 Resumen) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 3 de 5) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 7498 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama Entidad\226Relaci\363n) Tj ET
+0.137 0.420 0.557 rg 48 767 4 22 re f
+BT /F2 15 Tf 0.090 0.196 0.302 rg 1 0 0 1 60 770 Tm (Diccionario de entidades) Tj ET
+0.090 0.196 0.302 rg 48 713 499 28 re f
+0.090 0.196 0.302 RG 0.5 w 48 713 499 28 re S
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 53 724 Tm (Entidad / campo) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 203 724 Tm (Tipo conceptual) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 313 724 Tm (Regla o finalidad) Tj ET
+1 1 1 rg 48 687 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 687 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 698 Tm (Usuario.id_usuario) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 698 Tm (Identificador) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 698 Tm (Clave primaria del espacio personal) Tj ET
+0.965 0.976 0.984 rg 48 661 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 661 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 672 Tm (Usuario.email) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 672 Tm (Texto) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 672 Tm (Identifica la cuenta; se propone \372nico) Tj ET
+1 1 1 rg 48 627 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 627 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 646 Tm (Usuario.contrasena) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 646 Tm (Credencial) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 646 Tm (Debe almacenarse de forma protegida, no como) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 635 Tm (texto visible) Tj ET
+0.965 0.976 0.984 rg 48 601 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 601 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 612 Tm (Materia.id_usuario) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 612 Tm (Referencia) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 612 Tm (Propietario obligatorio de la materia) Tj ET
+1 1 1 rg 48 575 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 575 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 586 Tm (Actividad.tipo) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 586 Tm (Categor\355a) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 586 Tm (Tarea, trabajo pr\341ctico o examen) Tj ET
+0.965 0.976 0.984 rg 48 549 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 549 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 560 Tm (Actividad.fecha) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 560 Tm (Fecha) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 560 Tm (Fecha acad\351mica asociada a la obligaci\363n) Tj ET
+1 1 1 rg 48 523 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 523 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 534 Tm (Material.tipo) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 534 Tm (Categor\355a) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 534 Tm (PDF o texto dentro del alcance) Tj ET
+0.965 0.976 0.984 rg 48 497 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 497 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 508 Tm (Material.id_usuario) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 508 Tm (Referencia) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 508 Tm (Usuario que carg\363 el material) Tj ET
+1 1 1 rg 48 471 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 471 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 482 Tm (Material.id_materia) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 482 Tm (Referencia opcional) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 482 Tm (Materia asociada cuando corresponda) Tj ET
+0.965 0.976 0.984 rg 48 445 499 26 re f
+0.784 0.835 0.875 RG 0.45 w 48 445 499 26 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 456 Tm (Resumen.id_material) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 203 456 Tm (Referencia \372nica) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 456 Tm (Material de origen del resumen guardado) Tj ET
+0.137 0.420 0.557 rg 48 427 4 22 re f
+BT /F2 15 Tf 0.090 0.196 0.302 rg 1 0 0 1 60 430 Tm (Restricciones propuestas) Tj ET
+0.173 0.478 0.420 rg 50 398 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 396 Tm (Usuario.email debe ser \372nico para evitar cuentas duplicadas.) Tj ET
+0.173 0.478 0.420 rg 50 379 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 377 Tm (Materia.id_usuario, Actividad.id_materia, Material.id_usuario y Resumen.id_material no) Tj ET
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 364 Tm (admiten valores nulos.) Tj ET
+0.173 0.478 0.420 rg 50 347 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 345 Tm (Material.id_materia puede ser nulo \372nicamente si el producto permite materiales a\372n no) Tj ET
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 332 Tm (clasificados.) Tj ET
+0.173 0.478 0.420 rg 50 315 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 313 Tm (Actividad.tipo debe aceptar solamente los valores definidos por el alcance.) Tj ET
+0.173 0.478 0.420 rg 50 296 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 294 Tm (Resumen.id_material se propone \372nico para evitar m\341s de un resumen guardado por) Tj ET
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 281 Tm (material en esta versi\363n.) Tj ET
+0.173 0.478 0.420 rg 50 264 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 262 Tm (Las eliminaciones deben conservar la integridad referencial; la estrategia concreta) Tj ET
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 249 Tm (debe validarse durante el dise\361o f\355sico.) Tj ET
+0.137 0.420 0.557 rg 48 227 4 22 re f
+BT /F2 15 Tf 0.090 0.196 0.302 rg 1 0 0 1 60 230 Tm (Decisiones que requieren validaci\363n) Tj ET
+0.090 0.196 0.302 rg 48 173 499 28 re f
+0.090 0.196 0.302 RG 0.5 w 48 173 499 28 re S
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 53 184 Tm (Decisi\363n) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 198 184 Tm (Propuesta actual) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 358 184 Tm (Motivo) Tj ET
+1 1 1 rg 48 139 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 139 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 158 Tm (Materia de un material) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 158 Tm (Opcional) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 158 Tm (La historia indica asociaci\363n \253cuando) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 147 Tm (corresponda\273) Tj ET
+0.965 0.976 0.984 rg 48 105 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 105 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 124 Tm (Cantidad de res\372menes por) Tj ET
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 113 Tm (material) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 124 Tm (Cero o uno) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 124 Tm (Evita introducir versionado no) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 113 Tm (solicitado) Tj ET
+1 1 1 rg 48 71 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 71 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 90 Tm (Estado de actividad) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 90 Tm (Atributo previsto) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 90 Tm (Aparece en la propuesta de atributos,) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 79 Tm (pero no se detallan sus valores) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 4 de 5) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 1074 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama Entidad\226Relaci\363n) Tj ET
+0.090 0.196 0.302 rg 48 747 499 28 re f
+0.090 0.196 0.302 RG 0.5 w 48 747 499 28 re S
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 53 758 Tm (Decisi\363n) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 198 758 Tm (Propuesta actual) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 358 758 Tm (Motivo) Tj ET
+0.965 0.976 0.984 rg 48 713 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 713 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 732 Tm (Ruta o contenido) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 732 Tm (Campo conceptual) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 732 Tm (La implementaci\363n depende del) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 358 721 Tm (almacenamiento elegido) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 5 de 5) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+14 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000011 00000 n 
+0000000060 00000 n 
+0000000142 00000 n 
+0000000280 00000 n 
+0000001538 00000 n 
+0000001676 00000 n 
+0000003097 00000 n 
+0000003235 00000 n 
+0000008006 00000 n 
+0000008145 00000 n 
+0000015695 00000 n 
+0000015835 00000 n 
+0000016961 00000 n 
+0000017059 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+17162
+%%EOF
+

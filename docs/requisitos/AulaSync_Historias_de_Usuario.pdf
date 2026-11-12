@@ -1,0 +1,302 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1063 >>
+stream
+0.965 0.976 0.984 rg 0 0 595 842 re f
+0.137 0.420 0.557 rg 56 710 92 4 re f
+BT /F2 34 Tf 0.090 0.196 0.302 rg 1 0 0 1 56 660 Tm (AulaSync) Tj ET
+BT /F2 24 Tf 0.137 0.420 0.557 rg 1 0 0 1 56 620 Tm (Historias de Usuario) Tj ET
+BT /F1 13 Tf 0.149 0.204 0.259 rg 1 0 0 1 56 584 Tm (Especificaci\363n funcional de la primera versi\363n del sistema) Tj ET
+1 1 1 rg 56 350 483 135 re f
+0.784 0.835 0.875 RG 0.7 w 56 350 483 135 re S
+BT /F2 13 Tf 0.090 0.196 0.302 rg 1 0 0 1 76 453 Tm (Contenido) Tj ET
+BT /F1 11 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 425 Tm (Ocho historias de usuario expresadas con la estructura) Tj ET
+BT /F1 11 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 408 Tm (Como / Quiero / Para, acompa\361adas por sus respectivos) Tj ET
+BT /F1 11 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 391 Tm (criterios de aceptaci\363n.) Tj ET
+BT /F1 9.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 56 115 Tm (Documento elaborado a partir de AulaSync_Descripcion_del_Sistema.pdf) Tj ET
+BT /F1 9.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 56 96 Tm (Alcance: actor principal Estudiante \267 Versi\363n 1.0) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4641 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 9 Tf 0.392 0.455 0.518 rg 1 0 0 1 445 813 Tm (Historias de Usuario) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n funcional) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 495 25 Tm (P\341gina 2 de 5) Tj ET
+1 1 1 rg 40 570 515 215 re f
+0.784 0.835 0.875 RG 0.7 w 40 570 515 215 re S
+0.137 0.420 0.557 rg 40 570 4 215 re f
+0.090 0.196 0.302 rg 44 751 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 763 Tm (HU-01) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 764 Tm (Registro) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 731 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 731 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 715 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 715 Tm (crear una cuenta en AulaSync,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 699 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 699 Tm (acceder a un espacio personal donde pueda organizar mi) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 686 Tm (informaci\363n acad\351mica.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 669 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 654 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 652 Tm (El estudiante puede registrarse en el sistema.) Tj ET
+0.173 0.478 0.420 rg 60 638.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 636.5 Tm (El sistema crea un espacio personal para el estudiante.) Tj ET
+0.173 0.478 0.420 rg 60 623 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 621 Tm (La informaci\363n creada posteriormente queda asociada a ese usuario.) Tj ET
+1 1 1 rg 40 335 515 215 re f
+0.784 0.835 0.875 RG 0.7 w 40 335 515 215 re S
+0.137 0.420 0.557 rg 40 335 4 215 re f
+0.090 0.196 0.302 rg 44 516 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 528 Tm (HU-02) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 529 Tm (Inicio de sesi\363n) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 496 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 496 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 480 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 480 Tm (iniciar sesi\363n con mi cuenta,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 464 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 464 Tm (acceder a mis materias, actividades, materiales y res\372menes.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 447 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 432 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 430 Tm (El estudiante puede ingresar al sistema con su cuenta.) Tj ET
+0.173 0.478 0.420 rg 60 416.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 414.5 Tm (Solo puede acceder a la informaci\363n asociada a su usuario.) Tj ET
+0.173 0.478 0.420 rg 60 401 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 399 Tm (Si los datos de acceso no son v\341lidos, el sistema impide el ingreso.) Tj ET
+1 1 1 rg 40 55 515 260 re f
+0.784 0.835 0.875 RG 0.7 w 40 55 515 260 re S
+0.137 0.420 0.557 rg 40 55 4 260 re f
+0.090 0.196 0.302 rg 44 281 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 293 Tm (HU-03) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 294 Tm (Gestionar materias) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 261 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 261 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 245 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 245 Tm (crear, modificar, consultar y eliminar materias,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 229 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 229 Tm (organizar mi informaci\363n acad\351mica.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 212 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 197 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 195 Tm (Puede crear una materia.) Tj ET
+0.173 0.478 0.420 rg 60 181.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 179.5 Tm (Puede consultar sus materias.) Tj ET
+0.173 0.478 0.420 rg 60 166 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 164 Tm (Puede modificar una materia existente.) Tj ET
+0.173 0.478 0.420 rg 60 150.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 148.5 Tm (Puede eliminar una materia.) Tj ET
+0.173 0.478 0.420 rg 60 135 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 133 Tm (Cada materia pertenece al estudiante que la cre\363.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3709 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 9 Tf 0.392 0.455 0.518 rg 1 0 0 1 445 813 Tm (Historias de Usuario) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n funcional) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 495 25 Tm (P\341gina 3 de 5) Tj ET
+1 1 1 rg 40 455 515 330 re f
+0.784 0.835 0.875 RG 0.7 w 40 455 515 330 re S
+0.137 0.420 0.557 rg 40 455 4 330 re f
+0.090 0.196 0.302 rg 44 751 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 763 Tm (HU-04) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 764 Tm (Gestionar actividades acad\351micas) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 731 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 731 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 715 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 715 Tm (registrar tareas, trabajos pr\341cticos y ex\341menes con sus fechas,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 699 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 699 Tm (llevar un seguimiento de mis obligaciones acad\351micas.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 682 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 667 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 665 Tm (Puede registrar una actividad.) Tj ET
+0.173 0.478 0.420 rg 60 651.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 649.5 Tm (La actividad debe estar asociada a una materia.) Tj ET
+0.173 0.478 0.420 rg 60 636 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 634 Tm (Puede identificar si se trata de una tarea, un trabajo pr\341ctico o un examen.) Tj ET
+0.173 0.478 0.420 rg 60 620.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 618.5 Tm (Puede registrar la fecha correspondiente.) Tj ET
+0.173 0.478 0.420 rg 60 605 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 603 Tm (Puede consultar las actividades de una materia.) Tj ET
+1 1 1 rg 40 80 515 350 re f
+0.784 0.835 0.875 RG 0.7 w 40 80 515 350 re S
+0.137 0.420 0.557 rg 40 80 4 350 re f
+0.090 0.196 0.302 rg 44 396 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 408 Tm (HU-05) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 409 Tm (Cargar materiales) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 376 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 376 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 360 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 360 Tm (cargar materiales de estudio dentro de una materia,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 344 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 344 Tm (mantener mis recursos acad\351micos organizados y utilizarlos) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 331 Tm (dentro de AulaSync.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 314 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 299 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 297 Tm (Puede cargar archivos PDF.) Tj ET
+0.173 0.478 0.420 rg 60 283.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 281.5 Tm (Puede cargar contenido de texto.) Tj ET
+0.173 0.478 0.420 rg 60 268 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 266 Tm (Puede consultar posteriormente el material.) Tj ET
+0.173 0.478 0.420 rg 60 252.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 250.5 Tm (El material debe estar asociado al usuario que lo carg\363.) Tj ET
+0.173 0.478 0.420 rg 60 237 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 235 Tm (Cuando corresponda, el material estar\341 relacionado con una materia.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4150 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 9 Tf 0.392 0.455 0.518 rg 1 0 0 1 445 813 Tm (Historias de Usuario) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n funcional) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 495 25 Tm (P\341gina 4 de 5) Tj ET
+1 1 1 rg 40 405 515 380 re f
+0.784 0.835 0.875 RG 0.7 w 40 405 515 380 re S
+0.137 0.420 0.557 rg 40 405 4 380 re f
+0.090 0.196 0.302 rg 44 751 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 763 Tm (HU-06) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 764 Tm (Generar resumen con IA) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 731 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 731 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 715 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 715 Tm (generar autom\341ticamente un resumen de un material mediante) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 702 Tm (inteligencia artificial,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 686 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 686 Tm (reducir el tiempo necesario para estudiar y sintetizar contenidos) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 673 Tm (extensos.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 656 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 641 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 639 Tm (El estudiante selecciona o carga un material.) Tj ET
+0.173 0.478 0.420 rg 60 625.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 623.5 Tm (AulaSync obtiene el contenido del material.) Tj ET
+0.173 0.478 0.420 rg 60 610 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 608 Tm (El sistema env\355a el contenido al servicio de inteligencia artificial.) Tj ET
+0.173 0.478 0.420 rg 60 594.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 592.5 Tm (El servicio de inteligencia artificial procesa el material.) Tj ET
+0.173 0.478 0.420 rg 60 579 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 577 Tm (El sistema recibe el resumen generado.) Tj ET
+0.173 0.478 0.420 rg 60 563.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 561.5 Tm (El resumen se muestra al estudiante.) Tj ET
+0.173 0.478 0.420 rg 60 548 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 546 Tm (Si ocurre un error durante el procesamiento, el sistema lo informa.) Tj ET
+1 1 1 rg 40 55 515 325 re f
+0.784 0.835 0.875 RG 0.7 w 40 55 515 325 re S
+0.137 0.420 0.557 rg 40 55 4 325 re f
+0.090 0.196 0.302 rg 44 346 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 358 Tm (HU-07) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 359 Tm (Guardar resumen) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 326 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 326 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 310 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 310 Tm (guardar un resumen generado por inteligencia artificial,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 294 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 294 Tm (poder utilizarlo nuevamente sin tener que procesar otra vez el) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 281 Tm (mismo material.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 264 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 249 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 247 Tm (Puede guardar un resumen generado correctamente.) Tj ET
+0.173 0.478 0.420 rg 60 233.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 231.5 Tm (El resumen queda almacenado en el sistema.) Tj ET
+0.173 0.478 0.420 rg 60 218 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 216 Tm (El resumen se mantiene relacionado con el material correspondiente.) Tj ET
+0.173 0.478 0.420 rg 60 202.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 200.5 Tm (El resumen guardado puede recuperarse posteriormente sin volver a) Tj ET
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 188 Tm (procesar el material.) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 2740 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 9 Tf 0.392 0.455 0.518 rg 1 0 0 1 445 813 Tm (Historias de Usuario) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n funcional) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 495 25 Tm (P\341gina 5 de 5) Tj ET
+1 1 1 rg 40 450 515 335 re f
+0.784 0.835 0.875 RG 0.7 w 40 450 515 335 re S
+0.137 0.420 0.557 rg 40 450 4 335 re f
+0.090 0.196 0.302 rg 44 751 511 34 re f
+BT /F2 14 Tf 1 1 1 rg 1 0 0 1 56 763 Tm (HU-08) Tj ET
+BT /F1 10.5 Tf 1 1 1 rg 1 0 0 1 375 764 Tm (Consultar res\372menes) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 731 Tm (Como) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 731 Tm (estudiante,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 715 Tm (Quiero) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 715 Tm (consultar los res\372menes que guard\351 anteriormente,) Tj ET
+BT /F2 9.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 699 Tm (Para) Tj ET
+BT /F1 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 113 699 Tm (reutilizarlos durante mi estudio y repaso.) Tj ET
+BT /F2 9.7 Tf 0.173 0.478 0.420 rg 1 0 0 1 58 682 Tm (Criterios de aceptaci\363n) Tj ET
+0.173 0.478 0.420 rg 60 667 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 665 Tm (Puede acceder a sus res\372menes almacenados.) Tj ET
+0.173 0.478 0.420 rg 60 651.5 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 649.5 Tm (Puede visualizar el contenido de un resumen.) Tj ET
+0.173 0.478 0.420 rg 60 636 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 634 Tm (Solo puede acceder a los resultados correspondientes a su informaci\363n) Tj ET
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 621.5 Tm (acad\351mica.) Tj ET
+0.173 0.478 0.420 rg 60 608 3 3 re f
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 606 Tm (No es necesario volver a utilizar la inteligencia artificial para) Tj ET
+BT /F1 9.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 70 593.5 Tm (visualizar un resumen ya almacenado.) Tj ET
+0.965 0.976 0.984 rg 40 255 515 120 re f
+0.784 0.835 0.875 RG 0.7 w 40 255 515 120 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 58 345 Tm (Nota de alcance) Tj ET
+BT /F1 9.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 58 320 Tm (Este documento no incorpora recuperaci\363n de contrase\361a, notificaciones, calendario,) Tj ET
+BT /F1 9.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 58 305 Tm (perfiles administrativos ni otras funciones no definidas en el documento original.) Tj ET
+0.863 0.933 0.961 rg 40 100 515 95 re f
+BT /F2 11 Tf 0.137 0.420 0.557 rg 1 0 0 1 58 164 Tm (Estructura utilizada) Tj ET
+BT /F1 10 Tf 0.149 0.204 0.259 rg 1 0 0 1 58 136 Tm (Como actor \267 Quiero funcionalidad \267 Para beneficio esperado) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+14 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000011 00000 n 
+0000000060 00000 n 
+0000000142 00000 n 
+0000000280 00000 n 
+0000001394 00000 n 
+0000001532 00000 n 
+0000006224 00000 n 
+0000006362 00000 n 
+0000010122 00000 n 
+0000010261 00000 n 
+0000014463 00000 n 
+0000014603 00000 n 
+0000017395 00000 n 
+0000017493 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+17596
+%%EOF
+

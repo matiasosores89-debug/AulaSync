@@ -1,0 +1,319 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1215 >>
+stream
+0.965 0.976 0.984 rg 0 0 595 842 re f
+0.137 0.420 0.557 rg 56 710 92 4 re f
+BT /F2 32 Tf 0.090 0.196 0.302 rg 1 0 0 1 56 660 Tm (AulaSync) Tj ET
+BT /F2 23 Tf 0.137 0.420 0.557 rg 1 0 0 1 56 620 Tm (Diagrama de Flujo de Datos) Tj ET
+BT /F1 12.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 56 585 Tm (Diagrama de contexto \(Nivel 0\) y descomposici\363n funcional \(Nivel 1\)) Tj ET
+1 1 1 rg 56 350 483 140 re f
+0.784 0.835 0.875 RG 0.7 w 56 350 483 140 re S
+BT /F2 12.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 76 455 Tm (Prop\363sito del documento) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 425 Tm (Representar c\363mo circula la informaci\363n entre el estudiante,) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 408 Tm (AulaSync, el servicio de inteligencia artificial y los almacenes) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 391 Tm (internos, sin confundir el flujo de datos con una secuencia de) Tj ET
+BT /F1 10.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 76 374 Tm (pantallas.) Tj ET
+BT /F1 9.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 56 115 Tm (Fuente: AulaSync_Descripcion_del_Sistema.pdf) Tj ET
+BT /F1 9.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 56 96 Tm (Alcance: primera versi\363n \267 Actor principal: Estudiante) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3388 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama de Flujo de Datos) Tj ET
+0.137 0.420 0.557 rg 48 767 4 22 re f
+BT /F2 15 Tf 0.090 0.196 0.302 rg 1 0 0 1 60 770 Tm (Criterio de modelado) Tj ET
+BT /F1 9.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 48 736 Tm (Un Diagrama de Flujo de Datos muestra qu\351 informaci\363n entra, c\363mo se transforma, d\363nde se) Tj ET
+BT /F1 9.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 48 722 Tm (almacena y qu\351 resultados salen. No representa orden cronol\363gico, decisiones de interfaz ni) Tj ET
+BT /F1 9.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 48 708 Tm (pasos de navegaci\363n.) Tj ET
+0.090 0.196 0.302 rg 48 664 499 28 re f
+0.090 0.196 0.302 RG 0.5 w 48 664 499 28 re S
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 53 675 Tm (S\355mbolo) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 158 675 Tm (Significado) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 313 675 Tm (Aplicaci\363n en AulaSync) Tj ET
+1 1 1 rg 48 630 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 630 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 649 Tm (Entidad externa) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 158 649 Tm (Origen o destino fuera del) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 158 638 Tm (sistema) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 649 Tm (Estudiante y Servicio de IA) Tj ET
+0.965 0.976 0.984 rg 48 596 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 596 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 615 Tm (Proceso) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 158 615 Tm (Transforma informaci\363n) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 615 Tm (Autenticaci\363n, materias, actividades,) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 604 Tm (materiales y res\372menes) Tj ET
+1 1 1 rg 48 562 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 562 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 581 Tm (Almac\351n) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 158 581 Tm (Conserva datos) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 581 Tm (Usuarios, materias, actividades, materiales y) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 570 Tm (res\372menes) Tj ET
+0.965 0.976 0.984 rg 48 528 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 528 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 547 Tm (Flujo) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 158 547 Tm (Informaci\363n que se desplaza) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 547 Tm (Credenciales, datos acad\351micos, contenido y) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 313 536 Tm (resumen) Tj ET
+0.863 0.933 0.961 rg 48 440 499 81 re f
+0.784 0.835 0.875 RG 0.6 w 48 440 499 81 re S
+BT /F2 10.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 62 495 Tm (L\355mite del sistema) Tj ET
+BT /F1 9.3 Tf 0.149 0.204 0.259 rg 1 0 0 1 62 474 Tm (El servicio de IA se modela como entidad externa: AulaSync env\355a contenido y) Tj ET
+BT /F1 9.3 Tf 0.149 0.204 0.259 rg 1 0 0 1 62 461 Tm (recibe un resumen o un error, pero el procesamiento interno del proveedor no) Tj ET
+BT /F1 9.3 Tf 0.149 0.204 0.259 rg 1 0 0 1 62 448 Tm (forma parte del sistema.) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 2 de 5) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2747 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama de Flujo de Datos) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 48 770 Tm (DFD Nivel 0 \227 Diagrama de contexto) Tj ET
+BT /F1 9.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 48 745 Tm (AulaSync se representa como un \372nico proceso y se muestran \372nicamente sus intercambios externos.) Tj ET
+0.933 0.957 0.969 rg 45 435 130 82 re f
+0.137 0.420 0.557 RG 1.2 w 45 435 130 82 re S
+BT /F2 12 Tf 0.090 0.196 0.302 rg 1 0 0 1 80.6 478 Tm (ESTUDIANTE) Tj ET
+0.863 0.933 0.961 rg 220 420 155 112 re f
+0.137 0.420 0.557 RG 1.6 w 220 420 155 112 re S
+BT /F2 16 Tf 0.090 0.196 0.302 rg 1 0 0 1 293.58 482 Tm (0) Tj ET
+BT /F2 13 Tf 0.090 0.196 0.302 rg 1 0 0 1 272.02 458 Tm (AULASYNC) Tj ET
+0.933 0.957 0.969 rg 420 435 130 82 re f
+0.137 0.420 0.557 RG 1.2 w 420 435 130 82 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 447.27 478 Tm (SERVICIO DE IA) Tj ET
+0.137 0.420 0.557 RG 1.3 w 175 500 m 220 500 l S
+0.137 0.420 0.557 rg 220 500 m 213.9 503.5 l 213.9 496.5 l h f
+BT /F1 7.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 178 512 Tm (credenciales / datos acad\351micos) Tj ET
+0.137 0.420 0.557 RG 1.3 w 220 452 m 175 452 l S
+0.137 0.420 0.557 rg 175 452 m 181.1 448.5 l 181.1 455.5 l h f
+BT /F1 7.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 177 434 Tm (consultas / resultados / resumen) Tj ET
+0.137 0.420 0.557 RG 1.3 w 375 500 m 420 500 l S
+0.137 0.420 0.557 rg 420 500 m 413.9 503.5 l 413.9 496.5 l h f
+BT /F1 7.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 377 512 Tm (contenido del material) Tj ET
+0.137 0.420 0.557 RG 1.3 w 420 452 m 375 452 l S
+0.137 0.420 0.557 rg 375 452 m 381.1 448.5 l 381.1 455.5 l h f
+BT /F1 7.7 Tf 0.149 0.204 0.259 rg 1 0 0 1 378 434 Tm (resumen o error) Tj ET
+0.965 0.976 0.984 rg 48 235 499 125 re f
+0.784 0.835 0.875 RG 0.6 w 48 235 499 125 re S
+BT /F2 10.5 Tf 0.137 0.420 0.557 rg 1 0 0 1 64 330 Tm (Flujos principales) Tj ET
+BT /F1 9.1 Tf 0.149 0.204 0.259 rg 1 0 0 1 64 305 Tm (1. El estudiante aporta credenciales y datos de materias, actividades o materiales.) Tj ET
+BT /F1 9.1 Tf 0.149 0.204 0.259 rg 1 0 0 1 64 285 Tm (2. AulaSync devuelve acceso, informaci\363n organizada y res\372menes almacenados.) Tj ET
+BT /F1 9.1 Tf 0.149 0.204 0.259 rg 1 0 0 1 64 265 Tm (3. Para generar un resumen, AulaSync env\355a el contenido del material al servicio de IA.) Tj ET
+BT /F1 9.1 Tf 0.149 0.204 0.259 rg 1 0 0 1 64 245 Tm (4. El servicio externo devuelve el resumen generado o una indicaci\363n de error.) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 3 de 5) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4736 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama de Flujo de Datos) Tj ET
+BT /F2 17 Tf 0.090 0.196 0.302 rg 1 0 0 1 48 770 Tm (DFD Nivel 1 \227 Procesos y almacenes) Tj ET
+BT /F1 9.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 48 745 Tm (Descomposici\363n del proceso AulaSync en cinco funciones internas.) Tj ET
+0.933 0.957 0.969 rg 38 345 105 72 re f
+0.137 0.420 0.557 RG 1.1 w 38 345 105 72 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 63.55 382 Tm (ESTUDIANTE) Tj ET
+0.863 0.933 0.961 rg 190 660 155 65 re f
+0.137 0.420 0.557 RG 1.1 w 190 660 155 65 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 202 699 Tm (1.0) Tj ET
+BT /F2 10.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 237 699 Tm (Autenticaci\363n) Tj ET
+1 1 1 rg 407 668 140 49 re f
+0.784 0.835 0.875 RG 1 w 407 668 140 49 re S
+BT /F2 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 419 688 Tm (D1 \267 Usuarios) Tj ET
+0.173 0.478 0.420 RG 1.1 w 345 692 m 407 692 l S
+0.173 0.478 0.420 rg 407 692 m 400.9 695.5 l 400.9 688.5 l h f
+0.863 0.933 0.961 rg 190 535 155 65 re f
+0.137 0.420 0.557 RG 1.1 w 190 535 155 65 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 202 574 Tm (2.0) Tj ET
+BT /F2 10.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 237 574 Tm (Materias) Tj ET
+1 1 1 rg 407 543 140 49 re f
+0.784 0.835 0.875 RG 1 w 407 543 140 49 re S
+BT /F2 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 419 563 Tm (D2 \267 Materias) Tj ET
+0.173 0.478 0.420 RG 1.1 w 345 567 m 407 567 l S
+0.173 0.478 0.420 rg 407 567 m 400.9 570.5 l 400.9 563.5 l h f
+0.863 0.933 0.961 rg 190 410 155 65 re f
+0.137 0.420 0.557 RG 1.1 w 190 410 155 65 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 202 449 Tm (3.0) Tj ET
+BT /F2 10.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 237 449 Tm (Actividades) Tj ET
+1 1 1 rg 407 418 140 49 re f
+0.784 0.835 0.875 RG 1 w 407 418 140 49 re S
+BT /F2 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 419 438 Tm (D3 \267 Actividades) Tj ET
+0.173 0.478 0.420 RG 1.1 w 345 442 m 407 442 l S
+0.173 0.478 0.420 rg 407 442 m 400.9 445.5 l 400.9 438.5 l h f
+0.863 0.933 0.961 rg 190 285 155 65 re f
+0.137 0.420 0.557 RG 1.1 w 190 285 155 65 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 202 324 Tm (4.0) Tj ET
+BT /F2 10.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 237 324 Tm (Materiales) Tj ET
+1 1 1 rg 407 293 140 49 re f
+0.784 0.835 0.875 RG 1 w 407 293 140 49 re S
+BT /F2 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 419 313 Tm (D4 \267 Materiales) Tj ET
+0.173 0.478 0.420 RG 1.1 w 345 317 m 407 317 l S
+0.173 0.478 0.420 rg 407 317 m 400.9 320.5 l 400.9 313.5 l h f
+0.863 0.933 0.961 rg 190 160 155 65 re f
+0.137 0.420 0.557 RG 1.1 w 190 160 155 65 re S
+BT /F2 11 Tf 0.090 0.196 0.302 rg 1 0 0 1 202 199 Tm (5.0) Tj ET
+BT /F2 10.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 237 199 Tm (Res\372menes IA) Tj ET
+1 1 1 rg 407 168 140 49 re f
+0.784 0.835 0.875 RG 1 w 407 168 140 49 re S
+BT /F2 9.5 Tf 0.149 0.204 0.259 rg 1 0 0 1 419 188 Tm (D5 \267 Res\372menes) Tj ET
+0.173 0.478 0.420 RG 1.1 w 345 192 m 407 192 l S
+0.173 0.478 0.420 rg 407 192 m 400.9 195.5 l 400.9 188.5 l h f
+0.137 0.420 0.557 RG 1.3 w 143 390 m 190 692 l S
+0.137 0.420 0.557 rg 190 692 m 185.6 686.5 l 192.5 685.5 l h f
+0.137 0.420 0.557 RG 1.3 w 143 390 m 190 567 l S
+0.137 0.420 0.557 rg 190 567 m 185.1 562.0 l 191.8 560.2 l h f
+0.137 0.420 0.557 RG 1.3 w 143 390 m 190 442 l S
+0.137 0.420 0.557 rg 190 442 m 183.3 439.8 l 188.5 435.2 l h f
+0.137 0.420 0.557 RG 1.3 w 143 390 m 190 317 l S
+0.137 0.420 0.557 rg 190 317 m 189.7 324.0 l 183.8 320.2 l h f
+0.137 0.420 0.557 RG 1.3 w 143 390 m 190 192 l S
+0.137 0.420 0.557 rg 190 192 m 192.0 198.7 l 185.2 197.1 l h f
+0.933 0.957 0.969 rg 38 105 105 62 re f
+0.137 0.420 0.557 RG 1.1 w 38 105 105 62 re S
+BT /F2 9.5 Tf 0.090 0.196 0.302 rg 1 0 0 1 57.915 139 Tm (SERVICIO DE IA) Tj ET
+0.710 0.475 0.125 RG 1.2 w 190 182 m 143 146 l S
+0.710 0.475 0.125 rg 143 146 m 149.9 146.9 l 145.7 152.5 l h f
+0.710 0.475 0.125 RG 1.2 w 143 126 m 190 172 l S
+0.710 0.475 0.125 rg 190 172 m 183.2 170.3 l 188.1 165.3 l h f
+0.392 0.455 0.518 RG 1 w 407 309 m 345 192 l S
+0.392 0.455 0.518 rg 345 192 m 350.9 195.7 l 344.7 199.0 l h f
+BT /F1 7.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 253 Tm (contenido) Tj ET
+0.392 0.455 0.518 RG 1 w 407 559 m 345 442 l S
+0.392 0.455 0.518 rg 345 442 m 350.9 445.7 l 344.7 449.0 l h f
+BT /F1 7.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 351 510 Tm (materia) Tj ET
+BT /F1 8.5 Tf 0.392 0.455 0.518 rg 1 0 0 1 48 70 Tm (Los flujos diagonales indican consultas de datos existentes necesarias para asociar actividades, materiales y res\372menes.) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 4 de 5) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 4902 >>
+stream
+0.090 0.196 0.302 RG 0.5 w 40 804 m 555 804 l S
+BT /F2 10 Tf 0.090 0.196 0.302 rg 1 0 0 1 40 813 Tm (AulaSync) Tj ET
+BT /F1 8.8 Tf 0.392 0.455 0.518 rg 1 0 0 1 350 813 Tm (Diagrama de Flujo de Datos) Tj ET
+0.137 0.420 0.557 rg 48 767 4 22 re f
+BT /F2 15 Tf 0.090 0.196 0.302 rg 1 0 0 1 60 770 Tm (Diccionario de flujos) Tj ET
+0.090 0.196 0.302 rg 48 713 499 28 re f
+0.090 0.196 0.302 RG 0.5 w 48 713 499 28 re S
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 53 724 Tm (Origen ? destino) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 198 724 Tm (Datos transportados) Tj ET
+BT /F2 8.6 Tf 1 1 1 rg 1 0 0 1 403 724 Tm (Resultado) Tj ET
+1 1 1 rg 48 679 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 679 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 698 Tm (Estudiante ? 1.0) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 698 Tm (Datos de registro o credenciales) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 698 Tm (Alta de usuario o validaci\363n) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 687 Tm (de acceso) Tj ET
+0.965 0.976 0.984 rg 48 645 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 645 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 664 Tm (Estudiante ? 2.0) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 664 Tm (Datos y consultas de materias) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 664 Tm (Materia creada, modificada,) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 653 Tm (consultada o eliminada) Tj ET
+1 1 1 rg 48 611 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 611 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 630 Tm (Estudiante ? 3.0) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 630 Tm (T\355tulo, tipo, fecha y materia asociada) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 630 Tm (Actividad registrada o) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 619 Tm (listado por materia) Tj ET
+0.965 0.976 0.984 rg 48 577 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 577 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 596 Tm (Estudiante ? 4.0) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 596 Tm (Archivo PDF o texto y asociaci\363n) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 585 Tm (acad\351mica) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 596 Tm (Material almacenado o) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 585 Tm (recuperado) Tj ET
+1 1 1 rg 48 543 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 543 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 562 Tm (4.0 ? 5.0) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 562 Tm (Contenido del material seleccionado) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 562 Tm (Entrada preparada para) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 551 Tm (procesamiento) Tj ET
+0.965 0.976 0.984 rg 48 509 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 509 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 528 Tm (5.0 ? Servicio de IA) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 528 Tm (Contenido / resumen o error) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 528 Tm (Resumen visible para el) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 517 Tm (estudiante) Tj ET
+1 1 1 rg 48 475 499 34 re f
+0.784 0.835 0.875 RG 0.45 w 48 475 499 34 re S
+BT /F2 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 53 494 Tm (5.0 ? D5) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 198 494 Tm (Resumen y referencia al material) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 494 Tm (Almacenamiento y consulta) Tj ET
+BT /F1 8.2 Tf 0.149 0.204 0.259 rg 1 0 0 1 403 483 Tm (sin reprocesamiento) Tj ET
+0.137 0.420 0.557 rg 48 457 4 22 re f
+BT /F2 15 Tf 0.090 0.196 0.302 rg 1 0 0 1 60 460 Tm (Validaciones del DFD) Tj ET
+0.173 0.478 0.420 rg 50 428 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 426 Tm (Cada almac\351n tiene al menos un proceso que escribe y uno que consulta sus datos.) Tj ET
+0.173 0.478 0.420 rg 50 409 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 407 Tm (Las entidades externas no acceden directamente a los almacenes; toda interacci\363n) Tj ET
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 394 Tm (atraviesa un proceso de AulaSync.) Tj ET
+0.173 0.478 0.420 rg 50 377 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 375 Tm (La actividad se vincula con una materia; el material se asocia al usuario y, cuando) Tj ET
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 362 Tm (corresponde, a una materia.) Tj ET
+0.173 0.478 0.420 rg 50 345 3 3 re f
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 343 Tm (Un resumen guardado conserva la relaci\363n con su material y puede consultarse sin) Tj ET
+BT /F1 9.4 Tf 0.149 0.204 0.259 rg 1 0 0 1 61 330 Tm (volver a invocar al servicio de IA.) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 40 25 Tm (Documentaci\363n acad\351mica) Tj ET
+BT /F1 8.3 Tf 0.392 0.455 0.518 rg 1 0 0 1 497 25 Tm (P\341gina 5 de 5) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+14 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000011 00000 n 
+0000000060 00000 n 
+0000000142 00000 n 
+0000000280 00000 n 
+0000001546 00000 n 
+0000001684 00000 n 
+0000005123 00000 n 
+0000005261 00000 n 
+0000008059 00000 n 
+0000008198 00000 n 
+0000012986 00000 n 
+0000013126 00000 n 
+0000018080 00000 n 
+0000018178 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+18281
+%%EOF
+
